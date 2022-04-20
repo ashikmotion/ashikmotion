@@ -1,78 +1,35 @@
-<a href="#"><img width="100%" height="auto" src="https://scontent.fdac11-1.fna.fbcdn.net/v/t39.30808-6/278602820_739288154109607_6422755085777974075_n.png?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFSXyLCrY-oqF8FyzQzANWaBGb1P95aAUIEZvU_3loBQk9meNlVVWUjSErjnjkb8BMXemRJK8vqLPMAr9Chgq-W&_nc_ohc=022KEkt3sKQAX9VdITe&_nc_ht=scontent.fdac11-1.fna&oh=00_AT9UxabmjKmJVaIqr2VLG6IuuR2zZ24yTy9gLJ2wefDekg&oe=62641FAD" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashikur Rahman</h1>
+<a href="#"><img width="100%" height="auto" src="https://scontent.fdac11-1.fna.fbcdn.net/v/t39.30808-6/278602820_739288154109607_6422755085777974075_n.png?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFSXyLCrY-oqF8FyzQzANWaBGb1P95aAUIEZvU_3loBQk9meNlVVWUjSErjnjkb8BMXemRJK8vqLPMAr9Chgq-W&_nc_ohc=022KEkt3sKQAX9VdITe&_nc_ht=scontent.fdac11-1.fna&oh=00_AT9UxabmjKmJVaIqr2VLG6IuuR2zZ24yTy9gLJ2wefDekg&oe=62641FAD" height="170px"/></a>
+<h1 align="center">Hi 👋, I'm Ashikur Rahman</h1>
 <h3 align="center">I'm a passionate Flutter Mobile App Developer from Bangladesh.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiksovware&label=Profile%20views&color=0e75b6&style=flat" alt="ashiksovware" /> </p>
 
-## 🙋‍♂️ About Me
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **[SovWare](https://sovware.com/)**
+- 🌱 I’m currently learning **Node JS, Express JS**
 
-- 🌱 I’m currently learning **Python & Django**
+- 👨‍💻 All of my projects are available at [https://github.com/asikkolorob](https://github.com/asikkolorob)
 
-- 👯 I’m looking to collaborate on **[SovWare](https://sovware.com/)**
+- 💬 Ask me about **Android , MEARN**
 
-- 👨‍💻 All of my projects are available at **[SovWare](https://sovware.com/)**
+- 📫 How to reach me **ashik.exlac@gmail.com**
 
-- 💭 Ask me about **Anythings**
+- ⚡ Fun fact **I think I am funny**
 
-- 📫 How to reach me **asikrahman4545@gmail.com**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://dart.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="40" height="40"/> </a> 
-    <a href="https://flutter.dev/?utm_source=flutter_github_io&utm_medium=Redirect&utm_content=meta_refresh" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/djangoproject-2752208-2285025.png" width="40" height="40"/> </a> 
-    <a href="https://reactnative.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" height="40"/> </a> 
-    <a href="https://www.figma.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="40" height="40"/> </a> 
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-<p align="center">
-    <a href="https://github.com/AshikSovware/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AshikSovware&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/AshikSovware/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AshikSovware&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/AshikSovware/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshikSovware&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/AshikSovware/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AshikSovware&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href = "https://github.com/AshikSovware"><img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="40" height="40"/></a>
-<a href = "https://www.facebook.com/ashikur.rohmanko/"><img src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" width="40" height="40"/></a>
-<a href = "https://www.instagram.com/_ashik__rahman/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC5zbTdq0Gi9zQXod2SBMQfw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
+<a href="https://stackoverflow.com/users/17559838" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17559838" height="30" width="40" /></a>
+<a href="https://fb.com/ashikur.rohmanko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashikur.rohmanko" height="30" width="40" /></a>
+<a href="https://instagram.com/_ashik__rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ashik__rahman" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ashikur rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashikur rahman nasheed" height="30" width="40" /></a>
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AshikSovware">
-</a>
-<a href="https://github.com/AshikSovware?tab=followers"><img src="https://img.shields.io/github/followers/AshikSovware?label=Followers&style=social" alt="GitHub Badge"></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiksovware&show_icons=true&locale=en&layout=compact" alt="ashiksovware" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashiksovware&show_icons=true&locale=en" alt="ashiksovware" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashiksovware&" alt="ashiksovware" /></p>
