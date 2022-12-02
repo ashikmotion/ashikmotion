@@ -15,7 +15,7 @@
 <a href="https://www.youtube.com/c/ashikur rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashikur rahman nasheed" height="30" width="40" /></a>
 </p>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiksovware&show_icons=true&locale=en&layout=compact" alt="ashiksovware" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiksovware&show_icons=true&locale=en&layout=compact" alt="ashiksovware" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashiksovware&show_icons=true&locale=en" alt="ashiksovware" /></p>
 
