@@ -1,5 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://scontent.fdac11-1.fna.fbcdn.net/v/t39.30808-6/278602820_739288154109607_6422755085777974075_n.png?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_ohc=Bfi_0k2TvfkAX-yOxkD&_nc_ht=scontent.fdac11-1.fna&oh=00_AT9B91UrJ-YEsvrYdOhy7c-i4OyvwlLyTRSEkp30A_uUPQ&oe=6277E62D" height="170px"/></a>
-<a href="https://app.daily.dev/AshikExlac"><img src="https://api.daily.dev/devcards/5c9b886c694048b4a04e84bb881c7e6c.png?r=ro5" width="400" alt="Ashikur Rahman's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm Ashikur Rahman</h1>
 <h3 align="center">I'm a passionate Flutter Mobile App Developer from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -7,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiksovware&label=Profile%20views&color=0e75b6&style=flat" alt="ashiksovware" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://app.daily.dev/AshikExlac"><img src="https://api.daily.dev/devcards/5c9b886c694048b4a04e84bb881c7e6c.png?r=ro5" width="400" alt="Ashikur Rahman's Dev Card"/></a> </p>
 
 - 🌱 I’m currently learning **Node JS, Express JS**
 
