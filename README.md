@@ -5,6 +5,7 @@
 <p align="center"> <a href="https://app.daily.dev/AshikExlac"><img src="https://api.daily.dev/devcards/5c9b886c694048b4a04e84bb881c7e6c.png?r=2ui" width="220" alt="Ashikur Rahman's Dev Card"/></a> </p>
 
 <h2 align="center">Connect with me:</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiksovware&label=Profile%20views&color=0e75b6&style=flat" alt="ashiksovware" /> </p>
 <p align="center">
 <a href="https://stackoverflow.com/users/17559838" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17559838" height="30" width="40" /></a>
 <a href="https://fb.com/ashikur.rohmanko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashikur.rohmanko" height="30" width="40" /></a>
