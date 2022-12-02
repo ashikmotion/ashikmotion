@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiksovware&label=Profile%20views&color=0e75b6&style=flat" alt="ashiksovware" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge"  width="600" alt="" /></a> </p>
-<p align="center"> <a href="https://app.daily.dev/AshikExlac"><img src="https://api.daily.dev/devcards/5c9b886c694048b4a04e84bb881c7e6c.png?r=bd3" width="250" alt="Ashikur Rahman's Dev Card"/></a> </p>
+<p align="top"> <a href="https://app.daily.dev/AshikExlac"><img src="https://api.daily.dev/devcards/5c9b886c694048b4a04e84bb881c7e6c.png?r=bd3" width="250" alt="Ashikur Rahman's Dev Card"/></a> </p>
 
 - 🌱 I’m currently learning **Node JS, Express JS**
 
