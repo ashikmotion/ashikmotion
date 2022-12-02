@@ -2,8 +2,6 @@
 <h3 align="center">I'm a passionate Flutter Mobile App Developer from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiksovware&label=Profile%20views&color=0e75b6&style=flat" alt="ashiksovware" /> </p>
-
 <p align="center"> <a href="https://app.daily.dev/AshikExlac"><img src="https://api.daily.dev/devcards/5c9b886c694048b4a04e84bb881c7e6c.png?r=2ui" width="220" alt="Ashikur Rahman's Dev Card"/></a> </p>
 
 <h2 align="center">Connect with me:</h2>
