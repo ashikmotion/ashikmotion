@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Flutter Mobile App Developer from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="center"> <a href="https://app.daily.dev/AshikExlac"><img src="https://api.daily.dev/devcards/5c9b886c694048b4a04e84bb881c7e6c.png?r=2ui" width="220" alt="Ashikur Rahman's Dev Card"/></a> </p>
+<p align="center"> <a href="https://app.daily.dev/AshikMotion"><img src="https://api.daily.dev/devcards/5c9b886c694048b4a04e84bb881c7e6c.png?r=6ca" width="220" alt="Ashikur Rahman's Dev Card"/></a> </p>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
