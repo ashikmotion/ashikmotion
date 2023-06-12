@@ -4,7 +4,7 @@
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="50%"/></p>
 
 I am Ashikur Rahman 😃. I am from Dhaka, Bangladesh and currently I am working as Mobile App Developer at SovWare.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Mobile+App+Developer;Flutter+Developer+with+2%2B+Years+Experience;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Mobile+App+Developer;Flutter+Developer+with+1%2B+Years+Experience;)](https://git.io/typing-svg)
 ## Contact me
 <p align='start'>
 <a href="mailto:ashikmotion@gmail.com">
